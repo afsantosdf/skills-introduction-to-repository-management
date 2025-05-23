@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @afsantosdf
+/src/backend/database.py      @afsantosdf
+/src/backend/routers/auth.py  @afsantosdf
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @afsantosdf
